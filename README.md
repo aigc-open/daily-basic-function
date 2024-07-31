@@ -4,7 +4,7 @@
 
 ## install
 ```bash
-pip install git+https://github.com/jackLi-2024/daily-basic-function.git
+pip install git+https://github.com/aigc-open/daily-basic-function.git
 ```
 
 ## 输出执行时间
